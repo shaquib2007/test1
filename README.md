@@ -158,27 +158,30 @@ This report provides comprehensive pricing analysis for a complete Learning Mana
 
 ### 4.1 Competitor Pricing Analysis
 
-**Traditional LMS Platforms (SaaS)**
-| Platform | Pricing Model | Annual Cost (1000 users) |
-|----------|---------------|--------------------------|
-| Canvas LMS | Per-user ($8-15/user/year) | $8,000 - $15,000 |
-| Blackboard Learn | Institution-wide | $50,000 - $200,000+ |
-| Moodle (Hosted) | Support + hosting | $15,000 - $50,000 |
-| Brightspace (D2L) | Per-user ($3-10/user/year) | $3,000 - $10,000 |
+#### Traditional LMS Platforms (SaaS)
 
-**Enterprise Training Platforms**
-| Platform | Pricing Model | Annual Cost |
-|----------|--------------|-------------|
-| Cornerstone OnDemand | Per-user enterprise | $30,000 - $150,000 |
-| TalentLMS | Tiered monthly | $8,000 - $12,000/year |
-| Adobe Learning Manager | Enterprise custom | $50,000 - $150,000 |
+| Platform          | Pricing Model              | Annual Cost (1000 users) |
+| ----------------- | -------------------------- | ------------------------ |
+| Canvas LMS        | Per-user ($8-15/user/year) | $8,000 - $15,000         |
+| Blackboard Learn  | Institution-wide           | $50,000 - $200,000+      |
+| Moodle (Hosted)   | Support + hosting          | $15,000 - $50,000        |
+| Brightspace (D2L) | Per-user ($3-10/user/year) | $3,000 - $10,000         |
 
-**Code Learning Platforms**
-| Platform | Pricing Model | Annual Cost (100 seats) |
-|----------|--------------|-------------------------|
-| Codecademy for Teams | Per-user ($24-35/mo) | $28,800 - $42,000 |
-| Pluralsight | Per-user ($579-779/year) | $57,900 - $77,900 |
-| O'Reilly Learning | Per-user ($499/year) | $49,900 |
+#### Enterprise Training Platforms
+
+| Platform               | Pricing Model       | Annual Cost           |
+| ---------------------- | ------------------- | --------------------- |
+| Cornerstone OnDemand   | Per-user enterprise | $30,000 - $150,000    |
+| TalentLMS              | Tiered monthly      | $8,000 - $12,000/year |
+| Adobe Learning Manager | Enterprise custom   | $50,000 - $150,000    |
+
+#### Code Learning Platforms
+
+| Platform             | Pricing Model            | Annual Cost (100 seats) |
+| -------------------- | ------------------------ | ----------------------- |
+| Codecademy for Teams | Per-user ($24-35/mo)     | $28,800 - $42,000       |
+| Pluralsight          | Per-user ($579-779/year) | $57,900 - $77,900       |
+| O'Reilly Learning    | Per-user ($499/year)     | $49,900                 |
 
 ### 4.2 Key Differentiators
 
@@ -203,40 +206,52 @@ This report provides comprehensive pricing analysis for a complete Learning Mana
 #### Model A: Perpetual License + Annual Support (Recommended)
 
 **Tier 1: Department License** (Up to 500 students)
-| Component | Cost |
-|-----------|------|
-| Base License | $45,000 |
-| Implementation | $12,000 |
-| Training (8 hours) | $4,000 |
-| **Year 1 Total** | **$61,000** |
+
+| Component            | Cost        |
+| -------------------- | ----------- |
+| Base License         | $45,000     |
+| Implementation       | $12,000     |
+| Training (8 hours)   | $4,000      |
+| **Year 1 Total**     | **$61,000** |
 | Annual Support (20%) | $9,000/year |
 
 **Tier 2: Faculty License** (501 - 2,500 students)
-| Component | Cost |
-|-----------|------|
-| Base License | $85,000 |
-| Implementation | $18,000 |
-| Training (16 hours) | $6,000 |
-| **Year 1 Total** | **$109,000** |
+
+| Component            | Cost         |
+| -------------------- | ------------ |
+| Base License         | $85,000      |
+| Implementation       | $18,000      |
+| Training (16 hours)  | $6,000       |
+| **Year 1 Total**     | **$109,000** |
 | Annual Support (20%) | $17,000/year |
 
 **Tier 3: Campus License** (2,501 - 7,500 students)
-| Component | Cost |
-|-----------|------|
-| Base License | $125,000 |
-| Implementation | $25,000 |
-| Training (24 hours) | $8,000 |
-| **Year 1 Total** | **$158,000** |
+
+| Component            | Cost         |
+| -------------------- | ------------ |
+| Base License         | $125,000     |
+| Implementation       | $25,000      |
+| Training (24 hours)  | $8,000       |
+| **Year 1 Total**     | **$158,000** |
 | Annual Support (20%) | $25,000/year |
 
 **Tier 4: University-Wide** (7,501+ students)
-| Component | Cost |
-|-----------|------|
-| Base License | $180,000 |
-| Implementation | $35,000 |
-| Training (40 hours) | $12,000 |
-| **Year 1 Total** | **$227,000** |
+
+| Component            | Cost         |
+| -------------------- | ------------ |
+| Base License         | $180,000     |
+| Implementation       | $35,000      |
+| Training (40 hours)  | $12,000      |
+| **Year 1 Total**     | **$227,000** |
 | Annual Support (20%) | $36,000/year |
+
+**Support Package Includes:**
+
+- Bug fixes and security patches
+- Minor version updates
+- Technical support (email, 48-hour response)
+- Database maintenance guidance
+- AWS S3 configuration assistance
 
 **Support Package Includes:**
 
@@ -259,25 +274,28 @@ This report provides comprehensive pricing analysis for a complete Learning Mana
 #### Model C: Annual Enterprise License
 
 **Standard Enterprise** (Up to 1,000 users)
-| Component | Cost |
-|-----------|------|
-| Annual License | $85,000/year |
-| Onboarding | $25,000 (one-time) |
-| **Year 1 Total** | **$110,000** |
+
+| Component        | Cost               |
+| ---------------- | ------------------ |
+| Annual License   | $85,000/year       |
+| Onboarding       | $25,000 (one-time) |
+| **Year 1 Total** | **$110,000**       |
 
 **Growth Enterprise** (1,001 - 5,000 users)
-| Component | Cost |
-|-----------|------|
-| Annual License | $145,000/year |
-| Onboarding | $40,000 (one-time) |
-| **Year 1 Total** | **$185,000** |
+
+| Component        | Cost               |
+| ---------------- | ------------------ |
+| Annual License   | $145,000/year      |
+| Onboarding       | $40,000 (one-time) |
+| **Year 1 Total** | **$185,000**       |
 
 **Scale Enterprise** (5,001+ users)
-| Component | Cost |
-|-----------|------|
-| Annual License | $220,000/year |
-| Onboarding | $60,000 (one-time) |
-| **Year 1 Total** | **$280,000** |
+
+| Component        | Cost               |
+| ---------------- | ------------------ |
+| Annual License   | $220,000/year      |
+| Onboarding       | $60,000 (one-time) |
+| **Year 1 Total** | **$280,000**       |
 
 #### Model D: Per-Student Pricing (Usage-Based)
 
@@ -308,13 +326,14 @@ This report provides comprehensive pricing analysis for a complete Learning Mana
 ### 5.3 Full IP Buyout
 
 **Complete Source Code Transfer**
-| Component | Cost Range |
-|-----------|------------|
-| Software buyout | $200,000 - $350,000 |
-| Documentation package | $15,000 - $25,000 |
-| Knowledge transfer (60-120 days) | $40,000 - $90,000 |
-| Post-transfer support (6 months) | $25,000 - $55,000 |
-| **Total Range** | **$280,000 - $520,000** |
+
+| Component                        | Cost Range              |
+| -------------------------------- | ----------------------- |
+| Software buyout                  | $200,000 - $350,000     |
+| Documentation package            | $15,000 - $25,000       |
+| Knowledge transfer (60-120 days) | $40,000 - $90,000       |
+| Post-transfer support (6 months) | $25,000 - $55,000       |
+| **Total Range**                  | **$280,000 - $520,000** |
 
 **Buyout Package Includes:**
 
@@ -427,13 +446,14 @@ This report provides comprehensive pricing analysis for a complete Learning Mana
 - Minor version updates (same major version)
 
 **Enhanced Support (Additional Cost)**
-| Service | Annual Cost |
-|---------|-------------|
-| 24-hour response SLA | +$15,000 |
-| Dedicated account manager | +$20,000 |
-| Custom feature development (40 hrs) | +$25,000 |
-| On-site training | +$8,000 per session |
-| 24/7 emergency support | +$30,000 |
+
+| Service                             | Annual Cost         |
+| ----------------------------------- | ------------------- |
+| 24-hour response SLA                | +$15,000            |
+| Dedicated account manager           | +$20,000            |
+| Custom feature development (40 hrs) | +$25,000            |
+| On-site training                    | +$8,000 per session |
+| 24/7 emergency support              | +$30,000            |
 
 ---
 
@@ -470,12 +490,13 @@ This report provides comprehensive pricing analysis for a complete Learning Mana
 - Emphasize 5-year TCO comparison
 
 **Negotiation Anchors:**
-| Tier | List Price | Floor (15% discount max) |
-|------|------------|--------------------------|
-| Department | $61,000 | $52,000 |
-| Faculty | $109,000 | $93,000 |
-| Campus | $158,000 | $134,000 |
-| University-Wide | $227,000 | $193,000 |
+
+| Tier            | List Price | Floor (15% discount max) |
+| --------------- | ---------- | ------------------------ |
+| Department      | $61,000    | $52,000                  |
+| Faculty         | $109,000   | $93,000                  |
+| Campus          | $158,000   | $134,000                 |
+| University-Wide | $227,000   | $193,000                 |
 
 ### 10.2 For Enterprise Sales
 
@@ -486,11 +507,12 @@ This report provides comprehensive pricing analysis for a complete Learning Mana
 - Upsell path to higher tiers as usage grows
 
 **Negotiation Anchors:**
-| Tier | List Price | Floor (10% discount max) |
-|------|------------|--------------------------|
-| Standard | $110,000 (Y1) | $99,000 |
-| Growth | $185,000 (Y1) | $167,000 |
-| Scale | $280,000 (Y1) | $252,000 |
+
+| Tier     | List Price    | Floor (10% discount max) |
+| -------- | ------------- | ------------------------ |
+| Standard | $110,000 (Y1) | $99,000                  |
+| Growth   | $185,000 (Y1) | $167,000                 |
+| Scale    | $280,000 (Y1) | $252,000                 |
 
 ### 10.3 Discount Guidelines
 
